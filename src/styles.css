@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap");
+
+.App {
+  text-align: center;
+  font-family: "Andika New Basic", sans-serif;
+}
+
+body {
+  background-color: #c4b5fd;
+}
