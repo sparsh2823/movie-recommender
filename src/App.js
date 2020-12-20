@@ -30,7 +30,7 @@ const moviesDB = {
 };
 
 export default function App() {
-  var [selectedGenre, setGenre] = useState("action");
+  var [selectedGenre, setGenre] = useState("comedy");
   function genreClickHandler(genre) {
     setGenre(genre);
   }
